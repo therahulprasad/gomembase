@@ -2,7 +2,7 @@ package storage
 
 import (
 	"errors"
-	"github.com/rahulpache/gomembase/commandInterpreter"
+	"github.com/therahulprasad/gomembase/commandInterpreter"
 	"strconv"
 	"strings"
 	"time"

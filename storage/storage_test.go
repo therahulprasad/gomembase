@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/rahulpache/gomembase/commandInterpreter"
+	"github.com/therahulprasad/gomembase/commandInterpreter"
 	"testing"
 )
 
