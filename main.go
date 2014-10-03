@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/rahulpache/gomembase/commandInterpreter"
-	"github.com/rahulpache/gomembase/config"
-	"github.com/rahulpache/gomembase/storage"
+	"github.com/therahulprasad/gomembase/commandInterpreter"
+	"github.com/therahulprasad/gomembase/config"
+	"github.com/therahulprasad/gomembase/storage"
 	"net"
 	"strconv"
 	"time"
